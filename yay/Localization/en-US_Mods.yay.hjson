@@ -1,0 +1,38 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	antimacrosword: {
+		DisplayName: antimacrosword
+		Tooltip: Ideal for killing macro
+	}
+
+	Thepenetrator: {
+		DisplayName: Thepenetrator
+		Tooltip: ""
+	}
+
+	LittleJohn: {
+		DisplayName: Little John
+		Tooltip: still bigger than your...
+	}
+
+	dumb: {
+		DisplayName: dumb
+		Tooltip: dumb
+	}
+
+	butterchicken: {
+		DisplayName: butterchicken
+		Tooltip: one of the best foods
+	}
+
+	swordsploder: {
+		DisplayName: swordsploder
+		Tooltip: an absolute flop, dosen't even do anything useful
+	}
+}
+
+Projectiles: {
+	LittleJohnProjectile.DisplayName: Little John Projectile
+	swordsploderprojectile.DisplayName: swordsploderprojectile
+}
